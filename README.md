@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adamaprilod
-- 🌱 I’m currently learning Pyhton, C#, and C++
+- 🌱 I’m currently learning Pyhton, PHP, C#, and C++
 - 📫 How to reach me adamaprilod@gmail.com
 
 <!---
