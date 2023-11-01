@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adamaprilod A.K.A MaTrix
+- 👋 Hi, I’m Adam Aprilod Zulfikar A.K.A MaTrix
 - 🌱 I’m currently learning Pyhton, PHP, C#, and C++
 - 📫 How to reach me adamaprilod@gmail.com
 
