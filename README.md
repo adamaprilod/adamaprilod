@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Aprilod Zulfikar A.K.A MaTrix
-- 🌱 I’m currently learning Pyhton, PHP, C#, and C++
-- 📫 How to reach me adamaprilod@gmail.com
+- 🌱 I’m currently learning Pyhton, PHP, C#, and C++, Laravel.
+- 📫 How to reach me adamaprilod@gmail.com or you can DM me at https://www.instagram.com/adam_aprilod/
 
 <!---
 adamaprilod/adamaprilod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
